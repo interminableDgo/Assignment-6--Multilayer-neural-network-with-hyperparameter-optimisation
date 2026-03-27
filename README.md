@@ -74,5 +74,3 @@ Nota: Para entrenamientos extensos, se recomienda ejecutar en una máquina con G
 ## Artefactos generados
 - Modelo guardado: `optimized_car_evaluation.keras`  
 - Notebook principal: `Assignment6_MultilayerNeuralNetwork_PCA.ipynb`
-
-Infer missing details if necessary, but stay consistent with the notebook content.
